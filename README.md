@@ -10,7 +10,7 @@ A Luftrausers style game that runs Lua 5.1 scripts from C++. More information ca
 An executable is provided in the [Run_Win32](AscensionLua/Run_Win32) folder.
 
 ## Build
-The project was built using Visual Studio 17. If you would like to built it yourself, you can open the visual studio [solution](AscensionLua/AscensionLua.sln) to do so. You must have a copy of my engine to build it, and the engine and ascension project must both have the same parent folder like so:
+The project was built using Visual Studio 17. If you would like to built it yourself, you can open the visual studio [solution](AscensionLua/AscensionLua.sln) to do so. You must have a copy of my [engine](https://github.com/aahernandez/Engine) to build it, and the engine and ascension project must both have the same parent folder like so:
 
 |—parent folder  
 &ensp;&ensp;&ensp;&ensp;|—AscensionLua  
